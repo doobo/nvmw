@@ -14,3 +14,5 @@ Run nvmw install 6.1.0 if you're using 64bit, else don't use the architecture op
 
 需要低版本的，可以：
    git checkout HEAD^  //退回上一个版本
+或
+   git checkout -- nvmw.bat //撤回nvmw的修改
